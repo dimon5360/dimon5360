@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dimon5360
-- 👀 I’m interested in programming on C++ and somtimes on another languages. 
+- 👀 I’m interested in programming on C++ and sometimes on another languages. 
 - 🌱 I’m currently learning best practices of development backend on C++. 
 
 <!---
