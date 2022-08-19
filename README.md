@@ -1,14 +1,10 @@
 Hi, I’m Dmitry
 
-I’m interested in programming with C++. Sometimes I can do something with other languages like C#, Java, Rust etc. 
+I’m embedded software developer.
+Also my hobby is system and backend development. 
 
-I’m currently developing backend for messager with C++ + Boost and Desktop client with Qt.
-I'm using docker to host database instances like PostgresQL, MongoDB. 
+I use C, C++, .Net, Go, Rust, generally I develop pet-projects with Linux.
+I have experience with PostgreSQL and MongoDB, Apache Kafka and also I liked Google's gRPC and Protobuf technologies.
 
-Also I develop several tiny projects with C# (.NET6) and Rust. I use also Kafka.
-And I'm plannig to try using Redis for side project with Go.
-
-<!---
-dimon5360/dimon5360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Also I have a little expirience with GameDev.
+I like to try new technologies. 
