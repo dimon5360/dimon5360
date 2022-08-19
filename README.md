@@ -1,10 +1,10 @@
 Hi, I’m Dmitry
 
-I’m embedded software developer.
-Also my hobby is system and backend development. 
+I’m embedded and system software engineer. I develop firmwares for embedded devices and system software. 
+Also my hobby is a backend development. 
 
-I use C, C++, .Net, Go, Rust, generally I develop pet-projects with Linux.
-I have experience with PostgreSQL and MongoDB, Apache Kafka and also I liked Google's gRPC and Protobuf technologies.
+I use C, C++, Go, .Net, Rust, generally I develop pet-projects with Linux.
+I have experience with the PostgreSQL, MongoDB, Apache Kafka. Also I liked gRPC and Protobuf technologies.
 
 Also I have a little expirience with GameDev.
 I like to try new technologies. 
