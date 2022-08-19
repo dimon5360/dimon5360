@@ -1,6 +1,7 @@
 Hi, I’m Dmitry
 
-I’m embedded and system software engineer. I develop firmwares for embedded devices and system software. 
+I’m embedded and system software engineer. I develop firmwares for embedded devices and system software.
+
 Also my hobby is a backend development. 
 
 I use C, C++, Go, .Net, Rust, generally I develop pet-projects with Linux.
