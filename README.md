@@ -1,3 +1,1 @@
-Hi, I’m Dmitry
-
-I’m software engineer.
+Hi, I’m Dmitry, software engineer.
