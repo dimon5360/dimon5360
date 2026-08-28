@@ -13,7 +13,7 @@ Experienced in:
 
 Stack:
 - C, ASM (embedded ARM, RISC-V)
-- C++, Qt, C#, Python (x86 Win, Linux)
-- Python (emdedded Linux)
-- Rust, Go (web)
-- Flutter (mobile)
+- C++, C#, Python (desktop, cli)
+- Rust, Go, Elixir (backend)
+- React / Typescript (frontend)
+- Flutter / Dart (mobile)
