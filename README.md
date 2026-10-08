@@ -17,3 +17,4 @@ Stack:
 - Rust, Go, Elixir (backend)
 - React / Typescript (frontend)
 - Flutter / Dart (mobile)
+- Rust, C, C++ (game development)
