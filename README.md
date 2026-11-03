@@ -12,9 +12,9 @@ Experienced in:
 - Docker
 
 Stack:
-- C, ASM (embedded ARM, RISC-V)
-- C++, C#, Python (desktop, cli)
+- C, ASM (ARM, RISC-V)
+- C++, C#, Python (x86, ARM)
 - Rust, Go, Elixir (backend)
 - React / Typescript (frontend)
 - Flutter / Dart (mobile)
-- Rust, C, C++ (game development)
+- Rust, C, C++ (a bit of game development)
